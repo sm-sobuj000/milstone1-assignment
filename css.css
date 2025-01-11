@@ -807,18 +807,21 @@ line-height: 24px;
 letter-spacing: 0%;
 text-align: center;
 }
+.newsform{
+    display: flex;
+}
 #email{
     /* Frame 2087325514 */
 position: static;
 width: 450px;
-height: 55px;
+height: 19px;
 /* Auto layout */
 display: flex;
 flex-direction: column;
 justify-content: flex-start;
 align-items: flex-start;
 gap: 24;
-padding: 18px 40px 18px 40px;
+padding: 17px 34px 17px 34px;
 
 
 /* Inside Auto Layout */
@@ -853,6 +856,7 @@ border-radius: 0px 8px 8px 0px;
 
 background: rgb(0, 106, 80);
 }
+#mm22:hover{background-color: brown;}
 
 /* footer section */
 #footer-head{
