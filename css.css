@@ -748,6 +748,111 @@ margin: 32px 0px;
     background-color: brown;
 }
 
+.newsletter{/* Frame 2087325517 */
+    position: static;
+    width: 1280px;
+    height: 395px;
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 64;
+    padding: 80px 100px 80px 100px;
+    
+    
+    /* Inside Auto Layout */
+    flex: none;
+    order: 5;
+    flex-grow: 0;
+    margin: 180px 60px;
+    border-radius: 24px;
+    margin-top: 220px;
+
+background: rgb(198, 228, 214);
+}
+.newsletter h1{
+    /* Subscribe Newsletter */
+position: static;
+width: 622px;
+height: 48px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+gap: 16;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 16px 0px;
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: center; 
+}
+.newsletter p{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+}
+#email{
+    /* Frame 2087325514 */
+position: static;
+width: 450px;
+height: 55px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 18px 40px 18px 40px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+    border-radius: 8px 0px 0px 8px;
+
+background: rgb(255, 255, 255);
+}
+.Subscribebotton{
+    /* Frame 2087325504 */
+position: static;
+width: 150px;
+height: 56px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 48;
+padding: 17px 34px 17px 34px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 0px;
+border-radius: 0px 8px 8px 0px;
+
+background: rgb(0, 106, 80);
+}
 
 /* footer section */
 #footer-head{
